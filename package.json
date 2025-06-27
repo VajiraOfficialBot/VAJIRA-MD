@@ -4,6 +4,6 @@
   "main": "session/start.js",
   "scripts": {
     "preinstall": "node session/decode.js",
-    "start": "node session/start.js"
+    "start": "VAJIRA-MD=q0wG0CZS#3tIxOwvLICe12mn3McInAnVwwIXbhSPDb76rGU6GzYg"
   }
 }
